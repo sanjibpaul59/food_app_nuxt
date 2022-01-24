@@ -1,5 +1,9 @@
 # food-app
 
+## Introduction
+It's a simple nuxtjs project for Online food ordering from your favorite restaurents.
+
+
 ## Build Setup
 
 ```bash
